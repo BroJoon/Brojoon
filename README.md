@@ -1,4 +1,4 @@
-### Welcome to BroJoon's Github Profile :smile:
+### Welcome to BroJoon's Github Profile 👋
 
 🌱 I’m currently learning ...
 - ✨ Typescript
