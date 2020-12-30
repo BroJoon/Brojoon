@@ -1,6 +1,5 @@
 
 🌱 I’m currently learning ...
-
 - ✨ Typescript
 - :sparkler: React
 - ⚡ NodeJs
