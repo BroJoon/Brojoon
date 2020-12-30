@@ -6,4 +6,4 @@
 - :key: MongoDB & MySql
 - 💻 CS with C
 - :anchor: Docker & kubernetes
-
+[![BroJoon's github stats](https://github-readme-stats.vercel.app/api?username=BroJoon&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
