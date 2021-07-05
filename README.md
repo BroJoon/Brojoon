@@ -3,7 +3,6 @@
 🌱 I’m currently learning ...
 - ✨ Typescript
 - :fire: React & NodeJs
-- :key: MongoDB & MySql
 - 💻 CS with C & C++
 - :anchor: Docker
 <div>
